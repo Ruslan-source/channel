@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ruslan-source/channel.git/static/css/main.37051e8e.css",
+    "main.js": "/Ruslan-source/channel.git/static/js/main.cdb8555c.js",
+    "static/js/488.9c92ff38.chunk.js": "/Ruslan-source/channel.git/static/js/488.9c92ff38.chunk.js",
+    "static/media/photo_2024-12-24_22-10-26.jpg": "/Ruslan-source/channel.git/static/media/photo_2024-12-24_22-10-26.8fa7308e014ea7bc43a3.jpg",
+    "static/media/photo_2024-12-24_22-10-27.jpg": "/Ruslan-source/channel.git/static/media/photo_2024-12-24_22-10-27.3aeaf3fe36774a097527.jpg",
+    "index.html": "/Ruslan-source/channel.git/index.html",
+    "main.37051e8e.css.map": "/Ruslan-source/channel.git/static/css/main.37051e8e.css.map",
+    "main.cdb8555c.js.map": "/Ruslan-source/channel.git/static/js/main.cdb8555c.js.map",
+    "488.9c92ff38.chunk.js.map": "/Ruslan-source/channel.git/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37051e8e.css",
+    "static/js/main.cdb8555c.js"
+  ]
+}
